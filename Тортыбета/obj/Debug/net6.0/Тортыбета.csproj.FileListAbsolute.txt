@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Тортыбета\Тортыбета\bin\Debug\net6.0\Тортыбета.exe
+C:\Users\User\source\repos\Тортыбета\Тортыбета\bin\Debug\net6.0\Тортыбета.deps.json
+C:\Users\User\source\repos\Тортыбета\Тортыбета\bin\Debug\net6.0\Тортыбета.runtimeconfig.json
+C:\Users\User\source\repos\Тортыбета\Тортыбета\bin\Debug\net6.0\Тортыбета.dll
+C:\Users\User\source\repos\Тортыбета\Тортыбета\bin\Debug\net6.0\Тортыбета.pdb
+C:\Users\User\source\repos\Тортыбета\Тортыбета\obj\Debug\net6.0\Тортыбета.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Тортыбета\Тортыбета\obj\Debug\net6.0\Тортыбета.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Тортыбета\Тортыбета\obj\Debug\net6.0\Тортыбета.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Тортыбета\Тортыбета\obj\Debug\net6.0\Тортыбета.AssemblyInfo.cs
+C:\Users\User\source\repos\Тортыбета\Тортыбета\obj\Debug\net6.0\Тортыбета.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Тортыбета\Тортыбета\obj\Debug\net6.0\Тортыбета.dll
+C:\Users\User\source\repos\Тортыбета\Тортыбета\obj\Debug\net6.0\refint\Тортыбета.dll
+C:\Users\User\source\repos\Тортыбета\Тортыбета\obj\Debug\net6.0\Тортыбета.pdb
+C:\Users\User\source\repos\Тортыбета\Тортыбета\obj\Debug\net6.0\Тортыбета.genruntimeconfig.cache
+C:\Users\User\source\repos\Тортыбета\Тортыбета\obj\Debug\net6.0\ref\Тортыбета.dll
